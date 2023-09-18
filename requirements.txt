@@ -1,0 +1,6 @@
+streamlit
+pdf2image
+pillow
+requests
+transformers[torch]
+git+https://github.com/ndgnuh/vietocr
